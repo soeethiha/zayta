@@ -1,10 +1,8 @@
 .vscode
 .fd
-.env
-*.env
 *.pyc
 *.py~
 *.log
 *.dat
-.venv
+.zt
 .python-version
