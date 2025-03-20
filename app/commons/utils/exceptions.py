@@ -1,4 +1,4 @@
-from fastapi import HTTPException, status, Request
+from fastapi import HTTPException, status
 from fastapi.responses import JSONResponse
 
 CredentialsException = HTTPException(

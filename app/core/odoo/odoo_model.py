@@ -15,3 +15,5 @@ class Method:
 
 class Model:
     product = "product.template"
+    user = "res.users"
+    partner = "res.partner"

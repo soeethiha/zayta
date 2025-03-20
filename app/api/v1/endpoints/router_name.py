@@ -3,3 +3,8 @@ class RouterName:
     odoo = "/odoo"
     login = "/access-token"
     product = "/product"
+    user = "/user"
+    customers = "/customers"
+    customer_check = "/customer/check/{customer_id}"
+    customer_get = "/customer/{customer_id}"
+    sales = "/sales"
